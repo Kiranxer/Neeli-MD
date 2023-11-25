@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Viper-X0/X-AsenaDuplicated/ /root/X
+RUN git clone https://github.com/Kiranxer/Neeli-Md/ /root/Neeli
 
-WORKDIR /root/X
+WORKDIR /root/Neeli
 
 RUN apt-get update && \
   apt-get install -y \
