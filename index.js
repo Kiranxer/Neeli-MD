@@ -57,7 +57,7 @@ const {
                     lastDisconnect
                 } = s;
                 if (connection === "connecting") {
-                    console.log("X-AsenaDuplicated");
+                    console.log("Neeli-Md");
                     console.log("ℹ️ Connecting to WhatsApp... Please Wait.");
                 }
                 if (connection === "open") {
@@ -74,7 +74,7 @@ const {
                     });
                     console.log("✅ Plugins Installed!");
 
-                    let str = `\`\`\`X-Asena connected \nversion : ${
+                    let str = `\`\`\`Neeli-Md Connected\nversion : ${
                     require(__dirname + "/package.json").version
                     }\nTotal Plugins : ${plugins.commands.length}\nWorktype: ${
                     config.WORK_TYPE
