@@ -34,16 +34,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Viper-X0/X-AsenaDuplicated.git"
+        "url": "git+https://github.com/Kiranxer/Neeli-Md.git"
     },
     "keywords": [
         "bot",
         "whatsapp"
     ],
-    "author": "Viper-X0",
+    "author": "Kiranxer",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/Viper-X0/X-AsenaDuplicated/issues"
     },
-    "homepage": "https://github.com/X-Electra/X-Asena#readme"
+    "homepage": "https://github.com/Kiranxer/Neeli-Md#readme"
 }
