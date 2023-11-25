@@ -1,7 +1,7 @@
 {
-    "name": "X-AsenaDuplicated",
+    "name": "Neeli-Md",
     "version": "4.0.0",
-    "description": "X-Asena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "description": "Neeli-Md project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "index.js",
     "directories": {
         "lib": "lib"
